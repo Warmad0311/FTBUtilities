@@ -21,7 +21,7 @@ public class CmdSetHome extends CmdBase
 {
 	public CmdSetHome()
 	{
-		super("sethome", Level.ALL);
+		super("ftbsethome", Level.ALL);
 	}
 
 	@Override

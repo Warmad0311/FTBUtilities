@@ -30,7 +30,7 @@ public class CmdHome extends CmdBase
 {
 	public CmdHome()
 	{
-		super("home", Level.ALL);
+		super("ftbhome", Level.ALL);
 	}
 
 	@Override
@@ -55,7 +55,7 @@ public class CmdHome extends CmdBase
 	{
 		if (args0.length == 0)
 		{
-			args0 = new String[] {"home"};
+			args0 = new String[] {"ftbhome"};
 		}
 
 		String[] args = args0;

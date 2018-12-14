@@ -17,7 +17,7 @@ public class CmdDelHome extends CmdBase
 {
 	public CmdDelHome()
 	{
-		super("delhome", Level.ALL);
+		super("ftbdelhome", Level.ALL);
 	}
 
 	@Override
